@@ -1,0 +1,15 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2e2f42;
+    background-color: #ffffff;
+}
+header {
+    width: 1440px;
+        height: 72px;
+}
+.banner {
+    width: 1440px;
+        height: 600px;
+        background-color: 2E2F42;
+        color: #ffffff;
+}
