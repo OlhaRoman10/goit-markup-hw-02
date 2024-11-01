@@ -62,24 +62,19 @@ ol {
 
 .banner-button {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: #4d5ae5;
+        background-color: #4d5ae5;
         font-weight: 500;
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.04em;
             color: #fff;
+            cursor: pointer;
 }
 .banner-button:hover,
 .banner-button:focus {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: #404bbf;
+        background-color: #404bbf;
 }
-
-.strengths {}
-
-.strengths-list {}
-
-.strengths-item {}
 
 .strengths-title {
     font-weight: 500;
@@ -89,16 +84,13 @@ ol {
     color: #2e2f42;}
 
 .strengths-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
       }
 
 .team {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: #404bbf;
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 
 .team-title {
@@ -109,16 +101,10 @@ ol {
         text-align: center;
         color: #2e2f42;
 }
-
-.team-list {}
-
 .team-item {
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-        background: #fff;
+        background-color: #fff;
 }
-
-.team-foto {}
-
 .team-item-title {
     font-weight: 500;
         font-size: 20px;
@@ -129,14 +115,11 @@ ol {
 }
 
 .team-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #434455;
 }
-.portfolio {}
 
 .portfolio-title {
     font-weight: 700;
@@ -147,10 +130,6 @@ ol {
         color: #2e2f42;
 }
 
-.portfolio-list {}
-
-.portfolio-image {}
-
 .portfolio-item-title {
     font-weight: 500;
         font-size: 20px;
@@ -160,16 +139,12 @@ ol {
 }
 
 .portfolio-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
 
-.portfolio-item {}
-
 .footer-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
